@@ -1,2 +1,4 @@
 networkx
 colorama
+requests>=2.25.1
+pycryptodome>=3.9.0
